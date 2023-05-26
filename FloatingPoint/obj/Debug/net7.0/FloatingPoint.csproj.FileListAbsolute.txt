@@ -1,0 +1,15 @@
+D:\nappy\csharp\baseball\Solution1\FloatingPoint\bin\Debug\net7.0\FloatingPoint.exe
+D:\nappy\csharp\baseball\Solution1\FloatingPoint\bin\Debug\net7.0\FloatingPoint.deps.json
+D:\nappy\csharp\baseball\Solution1\FloatingPoint\bin\Debug\net7.0\FloatingPoint.runtimeconfig.json
+D:\nappy\csharp\baseball\Solution1\FloatingPoint\bin\Debug\net7.0\FloatingPoint.dll
+D:\nappy\csharp\baseball\Solution1\FloatingPoint\bin\Debug\net7.0\FloatingPoint.pdb
+D:\nappy\csharp\baseball\Solution1\FloatingPoint\obj\Debug\net7.0\FloatingPoint.csproj.AssemblyReference.cache
+D:\nappy\csharp\baseball\Solution1\FloatingPoint\obj\Debug\net7.0\FloatingPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\nappy\csharp\baseball\Solution1\FloatingPoint\obj\Debug\net7.0\FloatingPoint.AssemblyInfoInputs.cache
+D:\nappy\csharp\baseball\Solution1\FloatingPoint\obj\Debug\net7.0\FloatingPoint.AssemblyInfo.cs
+D:\nappy\csharp\baseball\Solution1\FloatingPoint\obj\Debug\net7.0\FloatingPoint.csproj.CoreCompileInputs.cache
+D:\nappy\csharp\baseball\Solution1\FloatingPoint\obj\Debug\net7.0\FloatingPoint.dll
+D:\nappy\csharp\baseball\Solution1\FloatingPoint\obj\Debug\net7.0\refint\FloatingPoint.dll
+D:\nappy\csharp\baseball\Solution1\FloatingPoint\obj\Debug\net7.0\FloatingPoint.pdb
+D:\nappy\csharp\baseball\Solution1\FloatingPoint\obj\Debug\net7.0\FloatingPoint.genruntimeconfig.cache
+D:\nappy\csharp\baseball\Solution1\FloatingPoint\obj\Debug\net7.0\ref\FloatingPoint.dll

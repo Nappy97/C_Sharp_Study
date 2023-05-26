@@ -1,0 +1,15 @@
+D:\nappy\csharp\baseball\Solution1\IntegralTypesTest1\bin\Debug\net7.0\IntegralTypesTest1.exe
+D:\nappy\csharp\baseball\Solution1\IntegralTypesTest1\bin\Debug\net7.0\IntegralTypesTest1.deps.json
+D:\nappy\csharp\baseball\Solution1\IntegralTypesTest1\bin\Debug\net7.0\IntegralTypesTest1.runtimeconfig.json
+D:\nappy\csharp\baseball\Solution1\IntegralTypesTest1\bin\Debug\net7.0\IntegralTypesTest1.dll
+D:\nappy\csharp\baseball\Solution1\IntegralTypesTest1\bin\Debug\net7.0\IntegralTypesTest1.pdb
+D:\nappy\csharp\baseball\Solution1\IntegralTypesTest1\obj\Debug\net7.0\IntegralTypesTest1.csproj.AssemblyReference.cache
+D:\nappy\csharp\baseball\Solution1\IntegralTypesTest1\obj\Debug\net7.0\IntegralTypesTest1.GeneratedMSBuildEditorConfig.editorconfig
+D:\nappy\csharp\baseball\Solution1\IntegralTypesTest1\obj\Debug\net7.0\IntegralTypesTest1.AssemblyInfoInputs.cache
+D:\nappy\csharp\baseball\Solution1\IntegralTypesTest1\obj\Debug\net7.0\IntegralTypesTest1.AssemblyInfo.cs
+D:\nappy\csharp\baseball\Solution1\IntegralTypesTest1\obj\Debug\net7.0\IntegralTypesTest1.csproj.CoreCompileInputs.cache
+D:\nappy\csharp\baseball\Solution1\IntegralTypesTest1\obj\Debug\net7.0\IntegralTypesTest1.dll
+D:\nappy\csharp\baseball\Solution1\IntegralTypesTest1\obj\Debug\net7.0\refint\IntegralTypesTest1.dll
+D:\nappy\csharp\baseball\Solution1\IntegralTypesTest1\obj\Debug\net7.0\IntegralTypesTest1.pdb
+D:\nappy\csharp\baseball\Solution1\IntegralTypesTest1\obj\Debug\net7.0\IntegralTypesTest1.genruntimeconfig.cache
+D:\nappy\csharp\baseball\Solution1\IntegralTypesTest1\obj\Debug\net7.0\ref\IntegralTypesTest1.dll

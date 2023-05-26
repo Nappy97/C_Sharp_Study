@@ -1,0 +1,15 @@
+D:\nappy\csharp\baseball\Solution1\Decimal\bin\Debug\net7.0\Decimal.exe
+D:\nappy\csharp\baseball\Solution1\Decimal\bin\Debug\net7.0\Decimal.deps.json
+D:\nappy\csharp\baseball\Solution1\Decimal\bin\Debug\net7.0\Decimal.runtimeconfig.json
+D:\nappy\csharp\baseball\Solution1\Decimal\bin\Debug\net7.0\Decimal.dll
+D:\nappy\csharp\baseball\Solution1\Decimal\bin\Debug\net7.0\Decimal.pdb
+D:\nappy\csharp\baseball\Solution1\Decimal\obj\Debug\net7.0\Decimal.csproj.AssemblyReference.cache
+D:\nappy\csharp\baseball\Solution1\Decimal\obj\Debug\net7.0\Decimal.GeneratedMSBuildEditorConfig.editorconfig
+D:\nappy\csharp\baseball\Solution1\Decimal\obj\Debug\net7.0\Decimal.AssemblyInfoInputs.cache
+D:\nappy\csharp\baseball\Solution1\Decimal\obj\Debug\net7.0\Decimal.AssemblyInfo.cs
+D:\nappy\csharp\baseball\Solution1\Decimal\obj\Debug\net7.0\Decimal.csproj.CoreCompileInputs.cache
+D:\nappy\csharp\baseball\Solution1\Decimal\obj\Debug\net7.0\Decimal.dll
+D:\nappy\csharp\baseball\Solution1\Decimal\obj\Debug\net7.0\refint\Decimal.dll
+D:\nappy\csharp\baseball\Solution1\Decimal\obj\Debug\net7.0\Decimal.pdb
+D:\nappy\csharp\baseball\Solution1\Decimal\obj\Debug\net7.0\Decimal.genruntimeconfig.cache
+D:\nappy\csharp\baseball\Solution1\Decimal\obj\Debug\net7.0\ref\Decimal.dll

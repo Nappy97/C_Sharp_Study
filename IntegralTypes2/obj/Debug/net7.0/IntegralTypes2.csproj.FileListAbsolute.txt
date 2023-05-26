@@ -1,0 +1,15 @@
+D:\nappy\csharp\baseball\Solution1\IntegralTypes2\bin\Debug\net7.0\IntegralTypes2.exe
+D:\nappy\csharp\baseball\Solution1\IntegralTypes2\bin\Debug\net7.0\IntegralTypes2.deps.json
+D:\nappy\csharp\baseball\Solution1\IntegralTypes2\bin\Debug\net7.0\IntegralTypes2.runtimeconfig.json
+D:\nappy\csharp\baseball\Solution1\IntegralTypes2\bin\Debug\net7.0\IntegralTypes2.dll
+D:\nappy\csharp\baseball\Solution1\IntegralTypes2\bin\Debug\net7.0\IntegralTypes2.pdb
+D:\nappy\csharp\baseball\Solution1\IntegralTypes2\obj\Debug\net7.0\IntegralTypes2.csproj.AssemblyReference.cache
+D:\nappy\csharp\baseball\Solution1\IntegralTypes2\obj\Debug\net7.0\IntegralTypes2.GeneratedMSBuildEditorConfig.editorconfig
+D:\nappy\csharp\baseball\Solution1\IntegralTypes2\obj\Debug\net7.0\IntegralTypes2.AssemblyInfoInputs.cache
+D:\nappy\csharp\baseball\Solution1\IntegralTypes2\obj\Debug\net7.0\IntegralTypes2.AssemblyInfo.cs
+D:\nappy\csharp\baseball\Solution1\IntegralTypes2\obj\Debug\net7.0\IntegralTypes2.csproj.CoreCompileInputs.cache
+D:\nappy\csharp\baseball\Solution1\IntegralTypes2\obj\Debug\net7.0\IntegralTypes2.dll
+D:\nappy\csharp\baseball\Solution1\IntegralTypes2\obj\Debug\net7.0\refint\IntegralTypes2.dll
+D:\nappy\csharp\baseball\Solution1\IntegralTypes2\obj\Debug\net7.0\IntegralTypes2.pdb
+D:\nappy\csharp\baseball\Solution1\IntegralTypes2\obj\Debug\net7.0\IntegralTypes2.genruntimeconfig.cache
+D:\nappy\csharp\baseball\Solution1\IntegralTypes2\obj\Debug\net7.0\ref\IntegralTypes2.dll

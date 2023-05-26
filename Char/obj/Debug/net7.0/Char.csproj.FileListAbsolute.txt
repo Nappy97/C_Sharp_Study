@@ -1,0 +1,15 @@
+D:\nappy\csharp\baseball\Solution1\Char\bin\Debug\net7.0\Char.exe
+D:\nappy\csharp\baseball\Solution1\Char\bin\Debug\net7.0\Char.deps.json
+D:\nappy\csharp\baseball\Solution1\Char\bin\Debug\net7.0\Char.runtimeconfig.json
+D:\nappy\csharp\baseball\Solution1\Char\bin\Debug\net7.0\Char.dll
+D:\nappy\csharp\baseball\Solution1\Char\bin\Debug\net7.0\Char.pdb
+D:\nappy\csharp\baseball\Solution1\Char\obj\Debug\net7.0\Char.csproj.AssemblyReference.cache
+D:\nappy\csharp\baseball\Solution1\Char\obj\Debug\net7.0\Char.GeneratedMSBuildEditorConfig.editorconfig
+D:\nappy\csharp\baseball\Solution1\Char\obj\Debug\net7.0\Char.AssemblyInfoInputs.cache
+D:\nappy\csharp\baseball\Solution1\Char\obj\Debug\net7.0\Char.AssemblyInfo.cs
+D:\nappy\csharp\baseball\Solution1\Char\obj\Debug\net7.0\Char.csproj.CoreCompileInputs.cache
+D:\nappy\csharp\baseball\Solution1\Char\obj\Debug\net7.0\Char.dll
+D:\nappy\csharp\baseball\Solution1\Char\obj\Debug\net7.0\refint\Char.dll
+D:\nappy\csharp\baseball\Solution1\Char\obj\Debug\net7.0\Char.pdb
+D:\nappy\csharp\baseball\Solution1\Char\obj\Debug\net7.0\Char.genruntimeconfig.cache
+D:\nappy\csharp\baseball\Solution1\Char\obj\Debug\net7.0\ref\Char.dll
